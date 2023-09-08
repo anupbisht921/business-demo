@@ -1,2 +1,3 @@
 # business-demo
-This is our business idea
+This is our business idea.
+Author - Anup Bisht
